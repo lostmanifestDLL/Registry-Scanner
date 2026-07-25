@@ -1,4 +1,4 @@
-# Registry Scanner
+# Registry Scanner inspiration from OGCONTENT
 
 An advanced tool for detecting suspicious registry modifications on Windows.
 
